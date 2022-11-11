@@ -5,11 +5,11 @@ I performed data anaylsis on thousands and thousands of Kickstarter projects, sp
  the purpse of this project is to determine the success rate, fail rate, and best/worst times to launch a Kickstarter in the theater, speicifcly for plays!
 
 
-
 ### Analysis Of Outcomes Based On Launch Dates
 Based on the Launch Dates outcomes I have concluded that the best time to start in the theater world is in May June and July. I have also concluded that the months of November, December, and November are to be avoided.
 
-
+### Challenges and Difficulties Encountered
+When I first started the module I couldn't get a specific formula to work, it wasn't matching the example provided. I realized that my data may have been comprimised and I had to start from scratch by downloaded the dataset. I was deflated and felt defeated. After that it smooth sailing until the Outcomes vs Goals. I was hitting my head against he wall trying to use a formula I have never used. I tried my best to push on without destroying myself.
 
 ## Graphs! 
 The graph below shows the outcomes in the Theater category based on their Launch dates.  
