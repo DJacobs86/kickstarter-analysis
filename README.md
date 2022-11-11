@@ -1,5 +1,10 @@
 # An Analysis of Kickstarter Campagins
-I performed data anaylsis on thousands and thousands of Kickstarter projects, specificly in the play genre.
+##Overview of Project
+I performed data anaylsis on thousands and thousands of Kickstarter projects, specificly in the play and theater genre. I created Pivot tables showing the outcomes in the theater category in the US, wheather they are sucessful, failed or have been canceled. I created a pivot tables demonstrating the  same data for subcaterogries, specificly showing the plays in the US. I created spreasheet for Descriptive Statistics showing the mean, and median of sucessful and failed goals. The spreadsheet also includes trhe median and mean of sucessful pledges and failed pledges.
+
+Based on the Launch Dates outcomes I have concluded that the best time to start in the theater world is in May June and July. I have also concluded that the months of November, December, and November are to be avoided.
+
+
 
 The graph below shows the outcomes in the Theater category based on their Launch dates.  
 Launch Dates
