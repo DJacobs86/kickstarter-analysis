@@ -5,7 +5,8 @@ Launch Dates
 ![outcomes based on launch date](file:///C:/Users/yang3/Desktop/KU%20Data/outcomes%20based%20on%20launch%20date.png)
 
 Parent Category Outcomes
-![Parent Category]
+![Parent Category](file:///C:/Users/yang3/Desktop/KU%20Data/Parent%20Category.png)
 
 Subcategory Graph
-![Subcategory](C:\Users\yang3\Desktop\KU Data)
+![Subcategory Graph](file:///C:/Users/yang3/Desktop/KU%20Data/Subcategory.png)
+
